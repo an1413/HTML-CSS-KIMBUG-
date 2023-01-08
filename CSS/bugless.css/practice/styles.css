@@ -1,0 +1,38 @@
+* {
+    box-sizing:border-box;
+}
+
+div {
+    display:block;
+    margin-left : 25%;
+}
+
+
+.parent div {
+
+}
+
+.child {
+    width:200px;
+    height:200px;
+    color:black;
+    font-size: 20px;
+    line-height: 200px;
+    text-align: center;
+    font-weight: 600;
+}
+
+.red {
+    position:absolute;
+    background-color: red;
+
+
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.blue {
+    background-color: blue;
+}
